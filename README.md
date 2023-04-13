@@ -18,12 +18,12 @@ We sliced, flitered, searched for duplicates and dropped any coloumns that we fe
 # Visual 1 Title
 ![work type   bmi](https://user-images.githubusercontent.com/123523010/231905784-0b964038-c01c-4cd0-a73f-e396ef3c6b61.png)
 
-### Here in this data we are comparing the
+### So it seems as if those who are in the work force have a much higher BMI than those who are not. Even those who are self employed who seem to have the highest BMI of them all.
 
 # Visual 2 Title
-![work type p2p4](https://user-images.githubusercontent.com/123523010/231826712-322b7938-6059-491f-8571-f9fc1073c0d9.png)
+![smoking status   stroke](https://user-images.githubusercontent.com/123523010/231906078-733e479a-b525-4625-8b84-1317166c7153.png)
 
-### Based upon this 
+### Based upon this graph shows that those who formerly smoked are more than likely to have a stroke. Even a higher chance than those who are currently smoking.
 
 # Results of Models
 ## The KNN Model was chosen for this set of data with GS as well.
