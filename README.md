@@ -26,13 +26,16 @@ We sliced, flitered, searched for duplicates and dropped any coloumns that we fe
 ### Based upon this 
 
 # Results of Models
-## The Decision Tree Model was chosen for this set of data
-## Decision Tree Model Test Scores
-### R^2(R-Squared Score): 0.162
+## The KNN Model was chosen for this set of data with GS as well.
+## KNN Model Test Score
+### Accuracy: 0.94
+## KNN Model w/ GS Test Score
+### Accuarcy: 0.94
 
-### This score can be interpreted as saying that our model can account for about 16% of the variation in y_test using the features in X_test.
+### This score can be interpreted as saying that our model can account for a 94% accuracy on predicting if someone will have a stroke or not.
 
-### RMSE(Root Mean Squared Error) : 1091.27
+## Random Forest was also chosen for this dataset with GS as well.
+### 
 
 ### This means the number is slightly higher because their were some test that had higher variance from the predictions. It impacts the total dollar amount because they are further away.
 ### These two metrics can help us predict new sales data within $1,100.
