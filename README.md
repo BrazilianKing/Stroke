@@ -16,7 +16,7 @@ https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
 We sliced, flitered, searched for duplicates and dropped any coloumns that we felt were not import for this particual project.
 
 # Visual 1 Title
-![smoking status](https://user-images.githubusercontent.com/123523010/231825089-4ab970bf-c78c-46e3-a73d-16fab6d1d954.png)
+![work type   bmi](https://user-images.githubusercontent.com/123523010/231905784-0b964038-c01c-4cd0-a73f-e396ef3c6b61.png)
 
 ### Here in this data we are comparing the
 
