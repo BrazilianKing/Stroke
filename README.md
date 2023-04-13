@@ -1,9 +1,10 @@
 # Stroke
 
-## Analyzing Food Sales Across Different Outlets Types 
+## Predicting the chances of an individual having a stroke
 Edmar Dos Santos
 
-### According to the World Health Organization stroke is the 2nd leading cause of death. Strokes are responsible for approximately 11% of total deaths. This dataset is used to predict whether a patient is likely to get stroke based on the input parameters like gender, age, various diseases, and smoking status. Each row in the data provides relavant information about the patient.
+### Context
+According to the World Health Organization stroke is the 2nd leading cause of death. Strokes are responsible for approximately 11% of total deaths. This dataset is used to predict whether a patient is likely to get stroke based on the input parameters like gender, age, various diseases, and smoking status. Each row in the data provides relavant information about the patient.
 
 ## Data: 
 https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
