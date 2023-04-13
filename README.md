@@ -3,12 +3,12 @@
 ## Analyzing Food Sales Across Different Outlets Types 
 Edmar Dos Santos
 
-### Business are always trying to find a way to make the most ammount of money and spend the least. They also want to know which products are driving most of thier sales and which products are producing the highest ROI.
+### According to the World Health Organization stroke is the 2nd leading cause of death. Strokes are responsible for approximately 11% of total deaths. This dataset is used to predict whether a patient is likely to get stroke based on the input parameters like gender, age, various diseases, and smoking status. Each row in the data provides relavant information about the patient.
 
 ## Data: 
-https://drive.google.com/file/d/1syH81TVrbBsdymLT_jl2JIf6IjPXtSQw/view 
+https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
 
-### For this dataset, there were 8523 rows and 12 columns.
+### For this dataset, there were 5110 rows and 12 columns.
 
 # Methods
 ### To prepare this data, the data was cleaned, and the following processes were performed:
