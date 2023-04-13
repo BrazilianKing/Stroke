@@ -20,7 +20,7 @@ We sliced, flitered, searched for duplicates and dropped any coloumns that we fe
 ### Here in this data we are comparing the
 
 # Visual 2 Title
-![outlet sales vs item MRP](https://user-images.githubusercontent.com/123523010/224517004-d8be19d7-70b0-4d92-b15d-fb833aa8d66e.png)
+![work type p2p4](https://user-images.githubusercontent.com/123523010/231826712-322b7938-6059-491f-8571-f9fc1073c0d9.png)
 
 ### Based upon this 
 
