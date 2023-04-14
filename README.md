@@ -25,26 +25,19 @@ We sliced, flitered, searched for duplicates and dropped any coloumns that we fe
 
 ### Based upon this graph shows that those who formerly smoked are more than likely to have a stroke. Even a higher chance than those who are currently smoking.
 
-# Results of Models
-## The KNN Model was chosen for this set of data with GS as well.
-## KNN Model Test Score
+# Results of Random Forest Classifier
+## The RandomForest Model was chosen for this set of data with GS as well.
+## RF Model Test Score
 ### Accuracy: 0.94
-## KNN Model w/ GS Test Score
-### Accuarcy: 0.94
 
 ### This score can be interpreted as saying that our model can account for a 94% accuracy on predicting if someone will have a stroke or not.
 
-## Random Forest was also chosen for this dataset with GS as well.
-### 
 
-### This means the number is slightly higher because their were some test that had higher variance from the predictions. It impacts the total dollar amount because they are further away.
-### These two metrics can help us predict new sales data within $1,100.
+### Both KNN & RF models gave us 94% accuarcy. But based on my experience RandomForest tends to yeild better results. So as more data is collected I will contiue to lean more on the RandomForest model.
 
 # Recommendations
-### I would recommend checking the other models to see if we can find any improvments in our data.
+### I would recomened getting more data and removing any data that is considered 'unknown'.
 
-# Next Steps
-### I would say that more data needs to be include and to run more models with the new data being included.
 
 # For futher questions: 
 ### Please email Edmar Dos Santos at edmardossantos85@gmail.com
