@@ -18,12 +18,12 @@ We sliced, flitered, searched for duplicates and dropped any coloumns that we fe
 # Visual 1 Title
 ![work type   bmi](https://user-images.githubusercontent.com/123523010/231905784-0b964038-c01c-4cd0-a73f-e396ef3c6b61.png)
 
-### So it seems as if those who are in the work force have a much higher BMI than those who are not. Even those who are self employed who seem to have the highest BMI of them all.
+### Those patients who are in the work force have a much higher BMI than those who are not. Those who are self employed seem to have the highest BMI of them all which I believed would have been the exact opposite.
 
 # Visual 2 Title
 ![smoking status   stroke](https://user-images.githubusercontent.com/123523010/231906078-733e479a-b525-4625-8b84-1317166c7153.png)
 
-### Based upon this graph shows that those who formerly smoked are more than likely to have a stroke. Even a higher chance than those who are currently smoking.
+### Based upon this graph it shows that the patients who formerly smoked are more than likely to have a stroke. Even a higher chance than those who are currently smoking.
 
 # Results of Random Forest Classifier
 ## The RandomForest Model was chosen for this set of data with GS as well.
