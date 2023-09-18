@@ -1,4 +1,6 @@
 # Stroke
+![bigstock-stroke-symptoms-vector-illustr-270931504](https://github.com/BrazilianKing/Stroke/assets/123523010/1b3e931c-417c-4659-a97f-5dc392ea0827)
+
 
 ## Predicting the chances of an individual having a stroke
 Edmar Dos Santos
