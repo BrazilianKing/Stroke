@@ -1,7 +1,6 @@
 ![bigstock-stroke-symptoms-vector-illustr-270931504](https://github.com/BrazilianKing/Stroke/assets/123523010/1b3e931c-417c-4659-a97f-5dc392ea0827)
 
 ## Predicting the chances of an individual having a stroke
-Edmar Dos Santos
 
 ### Context
 According to the World Health Organization stroke is the 2nd leading cause of death. Strokes are responsible for approximately 11% of total deaths. This dataset is used to predict whether a patient is likely to get stroke based on the input parameters like gender, age, various diseases, and smoking status. Each row in the data provides relavant information about the patient.
@@ -12,7 +11,7 @@ https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
 ### For this dataset, there were 5110 rows and 12 columns.
 
 # Methods
-### To prepare this data, the data was cleaned, and the following processes were performed:
+### Data was cleaned, and the following processes were performed:
 We sliced, flitered, searched for duplicates and dropped any coloumns that we felt were not import for this particual project.
 
 # Visual 1 Title
